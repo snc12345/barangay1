@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316885288179",
+    "project_id": "barangay-info-system-b13b8",
+    "storage_bucket": "barangay-info-system-b13b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316885288179:android:733bc1177cf3520e7da386",
+        "android_client_info": {
+          "package_name": "com.example.barangay_info_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvk644EN4IoQ7XNIZQ3GBHDPCCne-xmaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
